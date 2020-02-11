@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {reverse} from './utils'
 
 const App = () => {
   return (
@@ -16,7 +17,7 @@ const App = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn {reverse('React')}
         </a>
       </header>
     </div>
