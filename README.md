@@ -1,4 +1,4 @@
-# cra-ts-code-coverage-example
+# cra-ts-code-coverage-example [![CI stats](https://github.com/bahmutov/cra-ts-code-coverage-example/workflows/test/badge.svg?branch=master)](.github/workflows/test.yml)
 > React App with TypeScript and Cypress code coverage
 
 This project was created using CRA v3
@@ -88,5 +88,7 @@ You can drill into individual files
 ![Utils coverage](images/utils-coverage.png)
 
 You can see the app has never called `add(a, b)` function, and only has called the `reverse(s)` function once passing a string.
+
+## See also
 
 For more examples, see [cypress-io/code-coverage](https://github.com/cypress-io/code-coverage#examples) and read the Cypress [Code Coverage Guide](http://on.cypress.io/code-coverage). You can also watch [Cypress.io - State of the Art Testing Tool](https://www.youtube.com/watch?v=JL3QKQO80fs) presentation and see its [slides](https://slides.com/bahmutov/state-of-the-art).
