@@ -89,4 +89,4 @@ You can drill into individual files
 
 You can see the app has never called `add(a, b)` function, and only has called the `reverse(s)` function once passing a string.
 
-For more examples, see [cypress-io/code-coverage](https://github.com/cypress-io/code-coverage).
+For more examples, see [cypress-io/code-coverage](https://github.com/cypress-io/code-coverage#examples) and read the Cypress [Code Coverage Guide](http://on.cypress.io/code-coverage). You can also watch [Cypress.io - State of the Art Testing Tool](https://www.youtube.com/watch?v=JL3QKQO80fs) presentation and see its [slides](https://slides.com/bahmutov/state-of-the-art).
