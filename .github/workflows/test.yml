@@ -13,3 +13,5 @@ jobs:
         with:
           start: npm start
           wait-on: 'http://localhost:3000'
+      - name: check code coverage
+        run: npx nyc report --check-coverage --lines 88

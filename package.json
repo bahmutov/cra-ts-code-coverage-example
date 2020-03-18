@@ -27,6 +27,9 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "nyc": {
+    "exclude": ["src/serviceWorker.ts"]
+  },
   "browserslist": {
     "production": [
       ">0.2%",
