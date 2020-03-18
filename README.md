@@ -1,4 +1,4 @@
-# cra-ts-code-coverage-example [![CI stats](https://github.com/bahmutov/cra-ts-code-coverage-example/workflows/test/badge.svg?branch=master)](.github/workflows/test.yml)
+# cra-ts-code-coverage-example [![renovate-app badge][renovate-badge]][renovate-app] [![CI stats](https://github.com/bahmutov/cra-ts-code-coverage-example/workflows/test/badge.svg?branch=master)](.github/workflows/test.yml)
 > React App with TypeScript and Cypress code coverage
 
 This project was created using CRA v3
@@ -92,3 +92,6 @@ You can see the app has never called `add(a, b)` function, and only has called t
 ## See also
 
 For more examples, see [cypress-io/code-coverage](https://github.com/cypress-io/code-coverage#examples) and read the Cypress [Code Coverage Guide](http://on.cypress.io/code-coverage). You can also watch [Cypress.io - State of the Art Testing Tool](https://www.youtube.com/watch?v=JL3QKQO80fs) presentation and see its [slides](https://slides.com/bahmutov/state-of-the-art).
+
+[renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
+[renovate-app]: https://renovateapp.com/
