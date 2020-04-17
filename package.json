@@ -28,7 +28,9 @@
     "extends": "react-app"
   },
   "nyc": {
-    "exclude": ["src/serviceWorker.ts"]
+    "exclude": [
+      "src/serviceWorker.ts"
+    ]
   },
   "browserslist": {
     "production": [
@@ -45,6 +47,7 @@
   "devDependencies": {
     "@cypress/code-coverage": "3.2.2",
     "@cypress/instrument-cra": "1.1.0",
+    "check-code-coverage": "1.0.1",
     "cypress": "4.4.0",
     "start-server-and-test": "1.10.11"
   }
