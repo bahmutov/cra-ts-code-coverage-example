@@ -30,15 +30,6 @@ Change the `start` script in [package.json](package.json) to be `react-scripts -
 
 ![code coverage object](images/coverage-object.png)
 
-Let's generate coverage reports
-
-```shell
-$ yarn add -D nyc istanbul-lib-coverage
-info Direct dependencies
-├─ istanbul-lib-coverage@3.0.0
-└─ nyc@15.0.0
-```
-
 Start app and Cypress
 
 ```shell
