@@ -11,10 +11,20 @@
     "renovate"
   ],
   "masterIssue": true,
-  "prConcurrentLimit": 3,
-  "prHourlyLimit": 2,
   "timezone": "America/New_York",
   "schedule": [
     "every weekend"
+  ],
+  "packageRules": [
+    {
+      "packagePatterns": ["*"],
+      "excludePackagePatterns": [
+        "cypress",
+        "@cypress/code-coverage",
+        "@cypress/instrument-cra",
+        "start-server-and-test"
+      ],
+      "enabled": false
+    }
   ]
 }
