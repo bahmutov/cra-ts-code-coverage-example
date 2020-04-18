@@ -1431,10 +1431,10 @@
     through2 "^2.0.0"
     watchify "3.11.1"
 
-"@cypress/code-coverage@3.2.2":
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/@cypress/code-coverage/-/code-coverage-3.2.2.tgz#5e619876fcefd4896e857b842cea5e24b6169d07"
-  integrity sha512-2ntF5yzf0ewA9Z+i2KW6j9sgZ11roljZaEATFVDAdZ61jjXlWgLHJAtSwVXGyYbgkHIhB/zCbRpMyXjPNWXqRQ==
+"@cypress/code-coverage@3.3.0":
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@cypress/code-coverage/-/code-coverage-3.3.0.tgz#6870399d0fa82541b2b6a1cec9d318f71aa9495a"
+  integrity sha512-TvnOFmdTeeVVF7NtjtHbTFA3HSHwo5dUQk2ou5ZcMyIZHOIkxBtg6KhI5ak3yXjuQwQUmo7kufgAi4bqah8cow==
   dependencies:
     "@cypress/browserify-preprocessor" "2.2.1"
     debug "4.1.1"
