@@ -48,7 +48,7 @@
     "@cypress/code-coverage": "3.7.0",
     "@cypress/instrument-cra": "1.1.1",
     "check-code-coverage": "1.0.1",
-    "cypress": "4.4.1",
+    "cypress": "4.5.0",
     "start-server-and-test": "1.11.0"
   }
 }
