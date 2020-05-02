@@ -45,7 +45,7 @@
     ]
   },
   "devDependencies": {
-    "@cypress/code-coverage": "3.5.3",
+    "@cypress/code-coverage": "3.7.0",
     "@cypress/instrument-cra": "1.1.1",
     "check-code-coverage": "1.0.1",
     "cypress": "4.4.1",
