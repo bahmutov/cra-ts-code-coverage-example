@@ -15,7 +15,7 @@ Name | Description
 --- | ---
 ![cypress version](https://img.shields.io/badge/cypress-4.6.0-brightgreen) | Cypress test runner [cypress-io/cypress](https://github.com/cypress-io/cypress)
 ![@cypress/instrument-cra version](https://img.shields.io/badge/@cypress/instrument--cra-1.1.1-brightgreen) | Instruments `react-scripts` applications on the fly
-![@cypress/code-coverage version](https://img.shields.io/badge/@cypress/code--coverage-3.7.4-brightgreen) | Generates coverage reports after Cypress test runs
+![@cypress/code-coverage version](https://img.shields.io/badge/@cypress/code--coverage-3.7.5-brightgreen) | Generates coverage reports after Cypress test runs
 
 
 ## Cypress tests with code coverage
