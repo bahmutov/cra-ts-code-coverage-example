@@ -6,7 +6,7 @@ This project was created using CRA v3
 ```shell
 $ npm i -g create-react-app
 + create-react-app@3.3.1
-$ create-react-app cra-ts-code-coverage-example --typescript
+$ create-react-app cra-ts-code-coverage-example --template typescript
 ```
 
 ## Current dependencies
