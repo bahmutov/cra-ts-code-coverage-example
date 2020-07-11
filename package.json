@@ -50,6 +50,6 @@
     "check-code-coverage": "1.0.1",
     "cypress": "4.10.0",
     "dependency-version-badge": "1.2.0",
-    "start-server-and-test": "1.11.0"
+    "start-server-and-test": "1.11.2"
   }
 }
